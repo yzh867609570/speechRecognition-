@@ -66,7 +66,7 @@ namespace AISpeech
             var filePath = this.filePath.Text;
 
             //设置语音识别应用的账号信息(百度智能云管理中心) APP_ID/API_KEY/SECRET_KEY
-            //demo里的账号
+            //demo里的账号 
             //var APP_ID = "14433392";
             //var API_KEY = "C7WMYgLeWv3Wm2yogwv5gD08";
             //var SECRET_KEY = "xcvwiwikALBDBaIcGisNQ6aQImtj3qua";
